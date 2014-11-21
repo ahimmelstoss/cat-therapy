@@ -9,14 +9,13 @@ var catVideos = [
   "http://media.giphy.com/media/zZMTVkTeEfeEg/giphy.mp4",
   "http://media.giphy.com/media/YAxCzfAc7MHPa/giphy.mp4",
   "http://media.giphy.com/media/uw5U12mcksoKs/giphy.mp4",
-  "http://media.giphy.com/media/d9XU9HcvZX7SU/giphy.mp4",
   "http://media.giphy.com/media/S1kXC3fX3X3jy/giphy.mp4",
   "http://media.giphy.com/media/iwoathoVXUWfC/giphy.mp4",
-  "http://media.giphy.com/media/TMmR0ZJe3EJi0/giphy.mp4",
   "http://media.giphy.com/media/1RgJ939wcJWsU/giphy.mp4",
   "http://media.giphy.com/media/nuD6CKrrpkBS8/giphy.mp4",
   "http://media.giphy.com/media/Yh39HZShKqJqg/giphy.mp4",
-  "http://media.giphy.com/media/q2QWrg8nWES2I/giphy.mp4"
+  "http://media.giphy.com/media/q2QWrg8nWES2I/giphy.mp4",
+  "http://media.giphy.com/media/ZuxPPPqY7IaOI/giphy.mp4"
 ]
 
 function displayRandomVideo() {
