@@ -51,10 +51,10 @@ body {
   margin: 0;
 }
 
-#top {
+#right {
   position: absolute;
   z-index: 10;
-  left: 94%;
+  left: 97%;
   margin: 0; 
 }
 
@@ -68,8 +68,15 @@ body {
   color: pink;
 }
 
+#left {
+  position: absolute;
+  z-index: 10;
+  right: 98%;
+  margin: 0;
+}
+
 #flatiron {
-  font-size: 35px;
+  font-size: 25px;
   color: #19BFE8;
   text-decoration: none;
 }
