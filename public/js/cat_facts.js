@@ -17,7 +17,7 @@ var catFacts = [
 
 function displayCatFact() {
   var randomIndex = Math.floor((Math.random() * catFacts.length));
-  $("#cat-fact").text(catFacts[randomIndex]);
+  $("#cat-fact").text(" " + catFacts[randomIndex]);
 }
 
 $(document).ready(function(){
