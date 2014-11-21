@@ -3,6 +3,25 @@
   height: 100%;
 }
 
+.video-div {
+  position: relative;
+}
+
 .date-time {
-  
+  position: absolute;
+  z-index: 10;
+  left: 30%;
+  right: 30%;
+  top: 75%;
+  font-family: ubuntu;
+  font-size: 2.5em;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 2px 2px grey;
+  font-family: sans-serif;
+}
+
+@font-face {
+  font-family: sans-serif;
+  src: url(../fonts/Ubuntu-Title.ttf);
 }
