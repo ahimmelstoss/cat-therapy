@@ -10,7 +10,6 @@ body {
 
 .video {
   width: 100%;
-/*  height: 100%;*/
 }
 
 .video-div {
@@ -52,19 +51,29 @@ body {
   margin: 0;
 }
 
-#heart {
+#top {
   position: absolute;
   z-index: 10;
-  left: 96%;
+  left: 93%;
   margin: 0; 
 }
 
-a {
+#heart {
   font-size: 40px;
   color: #E663A1;
   text-decoration: none;
 }
 
-a:hover {
-    color: pink;
+#heart:hover {
+  color: pink;
+}
+
+#flatiron {
+  font-size: 45px;
+  color: #19BFE8;
+  text-decoration: none;
+}
+
+#flatiron:hover {
+  color: #BAECF8;
 }
