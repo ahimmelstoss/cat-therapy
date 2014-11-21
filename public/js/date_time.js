@@ -14,18 +14,16 @@ function dateAndTime() {
 
   var hours = today.getHours();
   var minutes = today.getMinutes();
-  var seconds = today.getSeconds();
 
   hours = checkTime(hours);
   minutes = checkTime(minutes);
-  seconds = checkTime(seconds);
 
   var date = today.getDate();
   var rawMonth = today.getMonth();
   var rawDay = today.getDay();
 
   $('.date').html(days[rawDay] + ", " + date + " " + months[rawMonth]);
-  $('.time').html(hours + ":" + minutes + ":" + seconds);
+  $('.time').html(hours + ":" + minutes);
 
   setTimeout(function () {
     dateAndTime();

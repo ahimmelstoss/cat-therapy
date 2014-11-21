@@ -3,6 +3,11 @@
   src: url(../fonts/Ubuntu-Title.ttf);
 }
 
+body {
+  background-color: black;
+  margin: 0;
+}
+
 .video {
   width: 100%;
   height: 100%;
@@ -17,18 +22,43 @@
   z-index: 10;
   left: 10%;
   right: 10%;
-  top: 75%;
+  top: 70%;
   text-shadow: 2px 2px grey;
+  color: #E2C880;
   font-family: sans-serif;
   text-align: center;
 }
 
 .date-time {
-  font-size: 2.5em;
   font-weight: bold;
 }
 
-.cat-fact-div {
-  postion: absolute;
-  font-size: 1.8em;
+.date {
+  font-size: 50px;
+}
+
+.time {
+  font-size: 80px;
+}
+
+#cat-fact {
+  font-size: 30px;
+  margin: 0;
+}
+
+#heart {
+  position: absolute;
+  z-index: 10;
+  left: 94%;
+  margin: 0; 
+}
+
+a {
+  font-size: 60px;
+  color: pink;
+  text-decoration: none;
+}
+
+a:hover {
+    color: #E2C880;
 }
