@@ -54,12 +54,12 @@ body {
 #top {
   position: absolute;
   z-index: 10;
-  left: 93%;
+  left: 94%;
   margin: 0; 
 }
 
 #heart {
-  font-size: 40px;
+  font-size: 30px;
   color: #E663A1;
   text-decoration: none;
 }
@@ -69,7 +69,7 @@ body {
 }
 
 #flatiron {
-  font-size: 45px;
+  font-size: 35px;
   color: #19BFE8;
   text-decoration: none;
 }
