@@ -1,4 +1,4 @@
-catFacts = [
+var catFacts = [
   "A group of cats is called a clowder.",
   "Cats have over 20 muscles that control their ears.",
   "Cats sleep 70% of their lives.",
@@ -14,3 +14,12 @@ catFacts = [
   "A cat’s nose is ridged with a unique pattern, just like a human fingerprint.",
   "Black cats are bad luck in the United States, but they are good luck in the United Kingdom and Australia."
 ]
+
+function displayCatFact() {
+  var randomIndex = Math.floor((Math.random() * catFacts.length));
+  $("#cat-fact").text(catFacts[randomIndex]);
+}
+
+$(document).ready(function(){
+  displayCatFact();
+})
