@@ -21,7 +21,7 @@ var catVideos = [
   "http://media.giphy.com/media/lvRqhmHtSqigE/giphy.mp4",
   "http://media.giphy.com/media/b8OB52IWcwzRu/giphy.mp4",
   "http://media.giphy.com/media/7odHUWPszD0fC/giphy.mp4"
-]
+];
 
 function displayRandomVideo() {
   var randomIndex = Math.floor((Math.random() * catVideos.length));
