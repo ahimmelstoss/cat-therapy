@@ -22,7 +22,15 @@
   // "http://media.giphy.com/media/b8OB52IWcwzRu/giphy.mp4",
   // "http://media.giphy.com/media/7odHUWPszD0fC/giphy.mp4",
   // "http://media.giphy.com/media/yoJC2HwGm8buK9t9F6/giphy.mp4",
-  // "http://media.giphy.com/media/5xaOcLAT2ZzRM74rDyw/giphy.mp4"
+  // "http://media.giphy.com/media/5xaOcLAT2ZzRM74rDyw/giphy.mp4",
+  // new
+  // "http://media.giphy.com/media/m6aIggqT7oB4A/giphy.mp4",
+  // "http://media.giphy.com/media/zQ1XuapnXFmEM/giphy.mp4",
+  // "http://media.giphy.com/media/j6oGCztp16Cc0/giphy.mp4",
+  // "http://media.giphy.com/media/nl5wVNRJSWcO4/giphy.mp4",
+  // "http://media.giphy.com/media/JQRKxN6GuhGhy/giphy.mp4",
+  // "http://media.giphy.com/media/BOaEM3TkP1uUg/giphy.mp4",
+  // "http://media.giphy.com/media/xWlPqPbrlkEQU/giphy.mp4"
 // ];
 
 var holidayCats = [
@@ -32,7 +40,13 @@ var holidayCats = [
   "http://media.giphy.com/media/RdzzVrtvfqnM4/giphy.mp4",
   "http://media.giphy.com/media/IB9GHnquKcdNK/giphy.mp4",
   "http://media.giphy.com/media/VuG7FeHnMjhTy/giphy.mp4",
-  "http://media.giphy.com/media/tweNZa2gKE73a/giphy.mp4"
+  "http://media.giphy.com/media/tweNZa2gKE73a/giphy.mp4",
+  "http://media.giphy.com/media/JUs80AyjPS8OA/giphy.mp4",
+  "http://media.giphy.com/media/DTOgxlybiW3NC/giphy.mp4",
+  "http://media.giphy.com/media/LpYEzlOg9WOD6/giphy.mp4",
+  "http://media.giphy.com/media/YOCqPh7WJNxKg/giphy.mp4",
+  "http://media.giphy.com/media/YSkFp7ACgMUww/giphy.mp4",
+  "http://media.giphy.com/media/psNbEEYu2wqC4/giphy.mp4"
 ];
 
 function displayRandomVideo() {
