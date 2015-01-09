@@ -12,7 +12,12 @@ var catFacts = [
   "Cats only sweat through their foot pads.",
   "Cats have free-floating clavicle bones that attach their shoulders to their forelimbs, which allows them to squeeze through very small spaces.",
   "A cat's nose is ridged with a unique pattern, just like a human fingerprint.",
-  "Black cats are bad luck in the United States, but they are good luck in the United Kingdom and Australia."
+  "Black cats are bad luck in the United States, but they are good luck in the United Kingdom and Australia.",
+  "Unlike humans, who walk on the heels and balls of their feet, cats walk on the tips and balls of their toes.",
+  "Solid color cats' paw pads are usually the same color as their fur, and multicolored cats' paw pads may range from pink to black.",
+  "A typical cat has a total of 18 toes: four toes and one dewclaw on each front paw, and four toes on each back paw.",
+  "A cat's whiskers are generally as long as their body's width, allowing them to determine whether they will fit through openings.",
+  "The cat's tongue is covered in papillae, which is made from keratin, the same substance that is found in human fingernails."
 ];
 
 function displayCatFact() {

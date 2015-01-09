@@ -3,7 +3,7 @@
 
   "name": "Cat Therapy",
   "description": "Loads calming and playful cat videos with each new tab, along with useful information.",
-  "version": "1.10",
+  "version": "1.11",
   "incognito": "split",
   "chrome_url_overrides": {
     "newtab": "public/index.html"

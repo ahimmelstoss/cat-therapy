@@ -15,7 +15,8 @@ var catVideos = [
   "http://media.giphy.com/media/lkimm454Kv7kWDy1i/giphy.mp4",
   "http://media.giphy.com/media/yoJC2yuRNLg9REyTFC/giphy.mp4",
   "http://media.giphy.com/media/TlK63EUuhCz0KXaAuJ2/giphy.mp4",
-  "http://media.giphy.com/media/TlK63EHJ34m67nc3CEM/giphy.mp4"
+  "http://media.giphy.com/media/TlK63EHJ34m67nc3CEM/giphy.mp4",
+  "http://media.giphy.com/media/TlK63EDXDrqLqk0THr2/giphy.mp4"
   ];
 
 // var holidayCats = [
