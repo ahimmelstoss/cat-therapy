@@ -1,11 +1,7 @@
-@font-face {
-  font-family: sans-serif;
-  src: url(../fonts/Ubuntu-Title.ttf);
-}
-
 body {
   background-color: #202729;
   margin: 0;
+  overflow-y: hidden;
 }
 
 .video {
@@ -23,8 +19,7 @@ body {
   right: 10%;
   top: 67%;
   text-shadow: 2px 2px grey;
-  /*color: #E2C880;*/
-  color: #CAD9CA; /*holiday*/
+  color: #E2C880;
   font-family: sans-serif;
   text-align: center;
 }
