@@ -14,7 +14,7 @@ var catVideos = [
   "http://media.giphy.com/media/3o7Zev5VmoXb7y886I/giphy.mp4",
   "http://media.giphy.com/media/l0NwQKh3XtnP0Uenm/giphy.mp4",
   "http://media.giphy.com/media/26tn7CCcdrzuQ9tFC/giphy.mp4",
-  "http://media.giphy.com/media/3o7ZexXDcdlfQPU7UA/giphy.mp4"
+  "http://media.giphy.com/media/l0NwQYfxIlusmr63C/giphy.mp4"
 ];
 
 function displayRandomVideo() {
