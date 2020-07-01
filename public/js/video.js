@@ -2,7 +2,6 @@ var catVideos = [
   "http://media.giphy.com/media/l41YAo5H47wxazw2s/giphy.mp4",
   "http://media.giphy.com/media/3o7qDLUNLWz6V2Xra0/giphy.mp4",
   "http://media.giphy.com/media/l41YxT3DxTQh2exig/giphy.mp4",
-  "http://giant.gfycat.com/FirmPepperyBufeo.mp4",
   "http://i.imgur.com/e5ZXjtI.mp4",
   "http://i.imgur.com/F0SZiay.mp4",
   "http://i.imgur.com/aQJziZ0.mp4",
